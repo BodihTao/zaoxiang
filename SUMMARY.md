@@ -11,7 +11,8 @@
 * [造像端正美容感应](chapter8.md)
 * [造像超度亡灵感应](chapter9.md)
 * [造佛像增益智慧感应](chapter10.md)
-* [chapter11.md](/chapter11.md "造佛像往生净土感应")
+* [造佛像往生净土感应](chapter11.md)
+
 
 
 
